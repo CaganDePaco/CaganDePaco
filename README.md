@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:cagandepac@gmail.com">
-    <img src="https://img.shields.io/badge/Email-cagandepac%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:cagandepaco@gmail.com">
+    <img src="https://img.shields.io/badge/Email-cagandepaco%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/CaganDePaco">
     <img src="https://img.shields.io/badge/GitHub-CaganDePaco-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
@@ -20,7 +20,7 @@
 - 🎓 Bilgisayar Programcılığı bölümünden mezun oldum.
 - 💻 Web geliştirme ile ilgileniyor, front-end ve temel back-end konularında kendimi geliştiriyorum.
 - 📚 Yeni teknolojiler öğrenmeye ve projeler geliştirmeye devam ediyorum.
-- 📫 Bana ulaşmak için: **cagandepac@gmail.com**
+- 📫 Bana ulaşmak için: **cagandepaco@gmail.com**
 
 ---
 
