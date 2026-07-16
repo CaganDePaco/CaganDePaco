@@ -44,5 +44,6 @@
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaganDePaco&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CaganDePaco&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=CaganDePaco&theme=default" alt="GitHub Streak" />
 </p>
