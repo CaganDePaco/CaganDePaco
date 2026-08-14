@@ -53,6 +53,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -75,6 +76,11 @@
 Kültürel mirasın izini süren, kaçırılan eserlerin konumlarını harita üzerinde gösteren çok dilli (Türkçe/İngilizce) web uygulaması. Harita entegrasyonu, ülke filtreleme ve envanter yönetimi içeriyor. Backend tarafında JWT tabanlı admin kimlik doğrulama, CORS whitelist, XSS kaçışı ve dosya yükleme sertleştirmesi uygulandı.
 
 `HTML` · `CSS` · `JavaScript` · `Node.js`
+
+### 🧠 Yüz Tanıma Sistemi — Transfer Learning + Metrik Öğrenme
+Derin öğrenme tabanlı modüler yüz tanıma boru hattı. Yüz tespiti için OpenCV **YuNet** (DNN); tanıma için iki yöntem karşılaştırmalı olarak uygulandı: ImageNet ön-eğitimli **ResNet18** ile transfer learning (VGG16 / MobileNetV3 omurgaları da seçilebilir) ve **SFace** metrik öğrenme ile 128 boyutlu imza + kosinüs benzerliği. Veri sızıntısını önlemek için video karelerinde **zamansal %70/15/15 bölme** kullanıldı; sonuçlar Accuracy / Precision / Recall / F1, sınıf bazlı rapor ve karışıklık matrisi ile raporlanıyor. Canlı web kamerası tanıma modu içerir.
+
+`Python` · `PyTorch` · `OpenCV` · `scikit-learn` · `NumPy` · `Matplotlib`
 
 ### 📝 [Blog Uygulaması](https://github.com/CaganDePaco/blog-uygulamasi)
 Yazı oluşturma, listeleme ve yönetim akışlarını içeren blog uygulaması.
