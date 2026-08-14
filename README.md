@@ -8,6 +8,9 @@
   <a href="mailto:cagandepaco@gmail.com">
     <img src="https://img.shields.io/badge/Email-cagandepaco%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://www.linkedin.com/in/%C3%A7a%C4%9Fan-ko%C3%A7-252039366/">
+    <img src="https://img.shields.io/badge/LinkedIn-Çağan%20Koç-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://github.com/CaganDePaco">
     <img src="https://img.shields.io/badge/GitHub-CaganDePaco-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -22,7 +25,7 @@
 - 🔭 Şu anda **Uncharted** projesi üzerinde çalışıyorum: JWT tabanlı kimlik doğrulama, merkezi API yapılandırması ve güvenlik sertleştirmesi.
 - 🌱 Geliştirdiğim alanlar: makine öğrenmesi, görüntü işleme ve ölçeklenebilir backend mimarileri.
 - 💬 Flutter, C#, Node.js ve Python konularında konuşmaktan keyif alırım.
-- 📫 Bana ulaşmak için: **cagandepaco@gmail.com**
+- 📫 Bana ulaşmak için: **cagandepaco@gmail.com** · [LinkedIn](https://www.linkedin.com/in/%C3%A7a%C4%9Fan-ko%C3%A7-252039366/)
 
 ---
 
